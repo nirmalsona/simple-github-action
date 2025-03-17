@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello this will run from self-hostep runner"
+echo "Hi this will run from self-hostep runner"
