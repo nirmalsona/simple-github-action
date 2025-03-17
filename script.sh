@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Hello From Github Action"
+echo "Hello From Github Action"
