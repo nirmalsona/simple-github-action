@@ -4,7 +4,7 @@ on: [push]  # Run workflow on push events
 
 jobs:
   build:
-    runs-on: ubuntu-latest  # Use GitHub-hosted Ubuntu runner
+    runs-on: self-hosted  # Use GitHub-hosted Ubuntu runner
 
     steps:
       - name: Checkout Repository

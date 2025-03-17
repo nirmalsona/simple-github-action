@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "This is Nirmal"
+echo "Hello this will run from self-hostep runner"
